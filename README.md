@@ -1,8 +1,8 @@
 ### Olá, me chamo Edu!
 
 - 🦕 Estudante e Monitor do curso de Ciência da Computação - UnB
-- 📈 Software & Data Enginer
-- 💡 Apaixonado por novas tecnologias e inovações do mercado
+- 📈 Workaholic
+- 💡 Aprendendo sobre soluções em IA
 
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
