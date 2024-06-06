@@ -1,7 +1,7 @@
 ### Olá, me chamo Edu!
 
 - 🦕 Estudante e Monitor do curso de Ciência da Computação - UnB
-- 📈 Trabalhando em projetos Web
+- 📈 Software & Data Enginer
 - 💡 Apaixonado por novas tecnologias e inovações do mercado
 
   <div style="display: inline_block" align="center"><br>
