@@ -1,7 +1,8 @@
+<div id="Eu" align="left">
+
 ### 👋 Hi, my name is Eduardo!
 
-<div style="margin-bottom:8px">
-I am a computer student in University of Brasília (UnB) from Brazil
+<div style="margin-bottom:8px">I am a computer student in University of Brasília (UnB) from Brazil</div>
 - 🧑‍💻 I working with Data & Software Engineer focused on development products in AI at the Center for Management and Strategic Studies (CGEE)
 - 🧰 I was researcher at UnB, monitor of the algorithms and computer programming course in my university and member of Junior Computing Company (CJR).
 </div>
