@@ -1,5 +1,3 @@
-<div id="Eu" align="left">
-
 ### 👋 Hi, my name is Eduardo!
 
 <div style="margin-bottom:8px">I am a computer student in University of Brasília (UnB) from Brazil</div>
