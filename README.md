@@ -1,9 +1,9 @@
 ### 👋 Hi, my name is Eduardo!
 
-<div style="margin-bottom:8px">I am a computer student in University of Brasília (UnB) from Brazil</div>
+<div style="margin-bottom:8px">I am a undergraduate Computer Science student at the University of Brasília (UnB) from Brazil</div>
 
-- 🧑‍💻 I working with Data & Software Engineer focused on development products in AI at the Center for Management and Strategic Studies (CGEE)
-- 🧰 I was researcher at UnB, monitor of the algorithms and computer programming course in my university and member of Junior Computing Company (CJR).
+- 🧑‍💻 I am currently working as a Data & Software Engineer, focusing on developing AI products at the Centro de Gestão e Estudos Estratégicos (CGEE).
+- 🧰 I was previously a researcher at UnB, a teaching assistant for the Algorithms and Computer Programming course at my university, and a member of CJR, a junior computing company.
 </div>
 
 ---
@@ -58,8 +58,6 @@
 <div align="center" style="margin-top:10px">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumpda&layout=donut&theme=dark&langs_count=6&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edumpda&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
