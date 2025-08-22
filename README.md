@@ -2,7 +2,7 @@
 
 <div style="margin-bottom:8px">I am a undergraduate Computer Science student at the University of Brasília (UnB) from Brazil</div>
 
-- 🧑‍💻 I am currently working as a Data & Software Engineer, focusing on developing AI products at the Centro de Gestão e Estudos Estratégicos (CGEE).
+- 🧑‍💻 I am currently working as a Python Developer, focusing on developing AI products.
 - 🧰 I was previously a researcher at UnB, a teaching assistant for the Algorithms and Computer Programming course at my university, and a member of CJR, a junior computing company.
 </div>
 
