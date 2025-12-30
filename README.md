@@ -57,8 +57,8 @@
 
 <div align="center" style="margin-top:10px">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=edumpda)](https://github.com/anuraghazra/github-readme-stats)
-<div style="margin-top: 10px"></div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edumpda&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumpda&layout=compact&theme=dark)<div style="margin-top: 10px"></div>
 
 <div align="center">
   <a href = "mailto:edupereira.marques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
