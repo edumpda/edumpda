@@ -54,10 +54,8 @@
 ### 📊 Stats:
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=edumpda&show_icons=true&theme=dark" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumpda&layout=compact&theme=dark" alt="Top Languages" />
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edumpda&theme=github_dark)
 
 </div>
 
