@@ -51,14 +51,15 @@
 
 ---
 
-<div style="margin-top: 10px"></div>
-
 ### 📊 Stats:
 
-<div align="center" style="margin-top:10px">
+<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edumpda&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumpda&layout=compact&theme=dark)<div style="margin-top: 10px"></div>
+<img src="https://github-readme-stats.vercel.app/api?username=edumpda&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumpda&layout=compact&theme=dark" alt="Top Languages" />
+
+</div>
 
 <div align="center">
   <a href = "mailto:edupereira.marques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
