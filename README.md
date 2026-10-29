@@ -2,7 +2,7 @@
 
 <div style="margin-bottom:8px">I am a undergraduate Computer Science student at the University of Brasília (UnB) from Brazil</div>
 
-- 🧑‍💻 I currently work as a Python developer, focusing on AI product development at Cloudia.
+- 🧑‍💻 I currently work as a Python developer, focusing on AI product development.
 - 🧰 I was previously a Data Engineer at CGEE, a researcher at UnB, a teaching assistant for the Algorithms and Computer Programming course at my university, and a member of CJR, a junior computing company.
 </div>
 
