@@ -97,6 +97,7 @@
 
 <div style="margin-top: 10px"></div>
 
+<!--
 ### 📊 Stats:
 
 <div align="center">
@@ -104,6 +105,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edumpda&theme=github_dark)
 
 </div>
+-->
 
 <div align="center">
   <a href = "mailto:edupereira.marques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
